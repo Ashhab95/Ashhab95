@@ -10,7 +10,7 @@
 - 🎓 Computer Science (AI) major with a Statistics minor  
 - 🔭 Currently building **Track Split** – an AI-powered expense tracker with bill scanning & smart splitting  
 - 🎮 Also developed a full Pokémon-style battle game in Python featuring AI logic, evolution, and design patterns  
-- 📚 I tutor CEGEP and first-year students in CS and Math  
+- Check out some of my work below! 
 - ✉️ Reach me at: kazi.a.rahman@mail.mcgill.ca
 
 ---
