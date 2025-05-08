@@ -36,18 +36,6 @@ Check out some of my work below!
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashhab95&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashhab95&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p>
