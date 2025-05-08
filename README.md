@@ -1,6 +1,6 @@
 <h1 align="left">Hey there, I'm Kazi!</h1>
 <p align="left">
-  CS & Articial Intelligence Student @ McGill | AI & Software Engineering Enthusiast  
+  CS & Artificial Intelligence Student @ McGill | AI & Software Engineering Enthusiast  
 </p>
 
 ---
