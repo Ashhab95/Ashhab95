@@ -1,6 +1,6 @@
-<h1 align="center">Hey there 👋, I'm Kazi Ashhab Rahman</h1>
-<p align="center">
-  CS Student @ McGill | AI & Software Engineering Enthusiast  
+<h1 align="left">Hey there 👋, I'm Kazi Ashhab Rahman</h1>
+<p align="left">
+  CS and Stats Student @ McGill | AI & Software Engineering Enthusiast  
 </p>
 
 ---
