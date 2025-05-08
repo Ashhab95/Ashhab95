@@ -21,6 +21,7 @@ Check out some of my work below!
 <p>
   <img src="https://img.shields.io/badge/-Python-333?style=flat&logo=python" />
   <img src="https://img.shields.io/badge/-Java-333?style=flat&logo=java" />
+  <img src="https://img.shields.io/badge/-C%23-333?style=flat&logo=c-sharp" />
   <img src="https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B" />
   <img src="https://img.shields.io/badge/-Flask-333?style=flat&logo=flask" />
   <img src="https://img.shields.io/badge/-React-333?style=flat&logo=react" />
